@@ -1,0 +1,5 @@
+A Groovy version of Conway's Game of Life.
+
+Currently a sequential version with an "ASCII art" console display.  The intention is to make all the cells
+into active objects using GPars as an exhibition of parallelism.  OK so there will  almost certainly be no
+speed up, but it is an example of what can be done. 
